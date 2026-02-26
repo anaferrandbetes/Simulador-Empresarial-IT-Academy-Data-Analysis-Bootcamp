@@ -46,6 +46,14 @@ The project uses the same tools employed by Banco Atlas analysts:
 
 Weekly results are presented in a **single PDF file**.
 
+## Agile Work Framework
+The project follows agile principles:
+- Short iterative cycles
+- Continuous delivery of value
+- Close collaboration with the team
+- Daily check‑ins and frequent reviews
+- Kanban boards to visualize workflow and limit WIP
+
 ## Project Structure
 /data          → Raw and processed datasets (simulated)
 
@@ -69,13 +77,40 @@ As a Data Analyst within the Banco Atlas simulation, my responsibilities include
 
 My work focuses on transforming data into actionable strategies that support decision‑making across the bank.
 
-## Agile Work Framework
-The project follows agile principles:
-- Short iterative cycles
-- Continuous delivery of value
-- Close collaboration with the team
-- Daily check‑ins and frequent reviews
-- Kanban boards to visualize workflow and limit WIP
+## Team & Roles
+
+This project was developed within a collaborative simulation environment.
+
+- **Marketing & Communication Analysts** - Ekaterina Sorokopudova [https://github.com/Ekatskoropud] and Gabriel P. Santana [https://github.com/gpsantana]
+- **Finance & Credit Risk Analysts** - Edoardo Marchionni [https://github.com/Fombasa] and myself, Ana Ferrández
+- **Customer Profile Analysts** - Tania Rodríguez [https://github.com/Titaniarex] and J. Lluis Asensio [https://github.com/llllluis]
+
+## Project Authorship & Role Disclosure
+
+This project was developed collaboratively within a team-based simulation environment at Banco Atlas.
+
+My primary role within the team was **Finance & Credit Risk Analyst**.  
+The financial and risk-related analyses presented in this repository were carried out by me in collaboration with my teammate Edoardo Marchionni [https://github.com/Fombasa].
+
+These analyses specifically include:
+
+- Financial performance evaluation  
+- Credit risk assessment  
+- Solvency analysis  
+- Risk-oriented business recommendations  
+
+All other cross-functional analytical tasks — including:
+
+- Data understanding  
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- KPI tracking  
+- General business reporting  
+- Final presentation preparation  
+
+— were performed on a rotating basis together with the rest of the team, following an agile collaborative framework.
+
+This disclosure aims to clearly differentiate individual analytical contributions from shared team responsibilities within the project.
 
 ## License
 This project is for educational and simulation purposes within the IT Academy and Barcelona Activa training environment.
