@@ -48,9 +48,13 @@ Weekly results are presented in a **single PDF file**.
 
 ## Project Structure
 /data          → Raw and processed datasets (simulated)
+
 /desafiaments  → Weekly challenges and business inquiries
+
 /recursos      → Key information and educational guidelines
+
 /results       → Weekly presentations
+
 /scripts       → Python notebooks and scripts for analysis
 
 ## My Role in the Project
